@@ -10,7 +10,7 @@ Collaborative Filtering recommends items based on similarity measures between us
 The basic assumption behind the algorithm is that users with similar interests have common preferences.
 
 ## Tools Used
-•	Jupyter notebook  - pandas, numpy and sklearn library
+•	Jupyter notebook  - pandas, numpy and sklearn library<br>
 •	Pycharm - Flask
 
 ## Project Overview
